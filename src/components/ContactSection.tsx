@@ -49,7 +49,7 @@ const ContactSection = () => {
             
             <Button
               className="flex items-center gap-2 bg-gradient-to-r from-purple-500 to-blue-500 hover:opacity-90"
-              onClick={() => window.location.href = 'https://instagram.com/imthatmns'}
+              onClick={() => window.location.href = 'https://instagram.com/mannatsuthar_'}
             >
               <MessageSquare className="w-4 h-4" />
               Send Message
