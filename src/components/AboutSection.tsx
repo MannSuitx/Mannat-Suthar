@@ -1,8 +1,8 @@
 import { motion } from "framer-motion";
 
 const skills = [
-  "React", "TypeScript", "Node.js", "Next.js",
-  "Tailwind CSS", "GraphQL", "MongoDB", "AWS"
+  "Photoshop", "Lightroom", "Video Editing", "JavaScript",
+  "Html", "Css", "C++", "Java" , "Python"
 ];
 
 const AboutSection = () => {
@@ -37,9 +37,7 @@ const AboutSection = () => {
             whileInView={{ opacity: 1 }}
             transition={{ delay: 0.3 }}
           >
-            I'm a full-stack developer with a passion for building beautiful, functional, 
-            and user-friendly applications. With a strong foundation in modern web technologies,
-            I create solutions that make a difference.
+            I'm a Photo and Video Editor with a passion for creating visually stunning content, from retouching and color grading to crafting dynamic motion graphics. Alongside my editing expertise, I’m also a Full-Stack Developer proficient in React, Node.js, and Next.js, building seamless, user-friendly web applications. By blending creativity with technical skills, I deliver tailored solutions that elevate both the visual and functional aspects of digital experiences.
           </motion.p>
 
           <div className="space-y-4">
