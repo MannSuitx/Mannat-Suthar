@@ -5,19 +5,19 @@ const projects = [
     title: "Project 1",
     description: "A live stream thumbnail made using photoshop",
     tags: ["PHOTOSHOP"],
-    image: "/placeholder.svg"
+    image: "/1729940280602.jpg"
   },
   {
     title: "Project 2",
     description: "A thumbnail designing using photoshop",
     tags: ["PHOTOSHOP"],
-    image: "/placeholder.svg"
+    image: "/1729434180505.jpg"
   },
   {
     title: "Project 3",
     description: "A thumbnail designing using photoshop",
     tags: ["PHOTOSHOP"],
-    image: "/placeholder.svg"
+    image: "/1729369096014.jpg"
   }
 ];
 
