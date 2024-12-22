@@ -41,7 +41,7 @@ const ContactSection = () => {
             <Button
               variant="outline"
               className="flex items-center gap-2 bg-white/5 hover:bg-white/10 border-white/10 hover:border-white/20"
-              onClick={() => window.location.href = 'mailto:contact@example.com'}
+              onClick={() => window.location.href = 'mailto:mannatsuthar38@gmail.com'}
             >
               <Mail className="w-4 h-4" />
               Email Me
@@ -49,7 +49,7 @@ const ContactSection = () => {
             
             <Button
               className="flex items-center gap-2 bg-gradient-to-r from-purple-500 to-blue-500 hover:opacity-90"
-              onClick={() => window.location.href = '#'}
+              onClick={() => window.location.href = 'https://instagram.com/imthatmns'}
             >
               <MessageSquare className="w-4 h-4" />
               Send Message
