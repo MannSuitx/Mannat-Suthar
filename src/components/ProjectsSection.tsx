@@ -2,21 +2,21 @@ import { motion } from "framer-motion";
 
 const projects = [
   {
-    title: "Project One",
-    description: "A modern web application built with React and Node.js",
-    tags: ["React", "Node.js", "MongoDB"],
+    title: "Project 1",
+    description: "A live stream thumbnail made using photoshop",
+    tags: ["PHOTOSHOP"],
     image: "/placeholder.svg"
   },
   {
-    title: "Project Two",
-    description: "E-commerce platform with real-time updates",
-    tags: ["Next.js", "TypeScript", "Stripe"],
+    title: "Project 2",
+    description: "A thumbnail designing using photoshop",
+    tags: ["PHOTOSHOP"],
     image: "/placeholder.svg"
   },
   {
-    title: "Project Three",
-    description: "Mobile-first social media dashboard",
-    tags: ["React Native", "Firebase", "Redux"],
+    title: "Project 3",
+    description: "A thumbnail designing using photoshop",
+    tags: ["PHOTOSHOP"],
     image: "/placeholder.svg"
   }
 ];
