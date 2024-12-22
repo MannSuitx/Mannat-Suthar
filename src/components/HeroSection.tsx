@@ -70,7 +70,7 @@ const HeroSection = () => {
                 <Linkedin className="w-6 h-6" />
               </a>
               <a 
-                href="mailto:mannatsuthar38gmail.com" 
+                window.location.href="mailto:mannatsuthar38gmail.com" 
                 className="p-3 bg-white/5 rounded-full hover:bg-white/10 transition-colors duration-300 border border-white/10"
               >
                 <Mail className="w-6 h-6" />
